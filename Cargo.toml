@@ -1,0 +1,7 @@
+[package]
+name = "rust-lesson"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lib_demo = {git = "https://github.com/shiitake05/lib-demo"}
